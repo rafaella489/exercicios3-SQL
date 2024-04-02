@@ -1,0 +1,3 @@
+UPDATE alunos
+SET favorites = 'SIM'
+WHERE ID BETWEEN 1 AND 10;
